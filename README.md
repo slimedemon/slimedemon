@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm a passionate software engineer majoring in **Software Engineering**, specializing in **C#** and **ASP.NET Core**.
+I’m a passionate software engineer specializing in **C#** and **ASP.NET Core**, with a strong foundation in **Software Engineering**.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyen.tuan.at.859437/) 
